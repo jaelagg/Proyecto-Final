@@ -1,5 +1,5 @@
 # Proyecto-Final
-proyecto
+Proyecto
 
 INTEGRANTES:
 	Abimael González García
